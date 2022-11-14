@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+}
+#aa1{
+  height: 100px;
+  width: 100%;
+  background-color: aqua;
+}
+.aa2{
+  margin-left: 30%;
+  margin-top: 15px;
+}
+.a{
+  margin-left: 70px;
+}
+.aa3{
+  margin-left: 500px;
+  border-style: hidden;
+}
+#stage1{
+  margin-bottom: 40px;
+}

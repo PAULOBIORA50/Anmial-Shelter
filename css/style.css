@@ -1,22 +1,61 @@
 body{
   margin: 0;
 }
-#aa1{
+
+#top {
+  padding-left: 10px;
   height: 100px;
+  display: flex;
+  position: fixed;
+  z-index: 3;
+  background-color: rgb(12, 4, 4);
   width: 100%;
-  background-color: aqua;
 }
-.aa2{
-  margin-left: 30%;
-  margin-top: 15px;
+
+.top1{
+  color: gold;
 }
-.a{
-  margin-left: 70px;
+#carouselExampleSlidesOnly{
+  margin-top: 3%;
 }
-.aa3{
-  margin-left: 500px;
-  border-style: hidden;
+.p {
+  margin-left: 100px;
+  margin-right: 20px;
+  margin-top: 30px;
+  font-weight: bolder;
+  color: white;
+
 }
-#stage1{
-  margin-bottom: 40px;
+.d-block{
+  height: 43%;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 10px;
+}
+#stand1{
+  display: inline-flex;
+}
+#LAW{
+  height:100%;
+  width: 100%;
+  margin-top: 20px;
+  display:inline-block;
+
+}
+.gro{
+  margin-left: 5%;
+  font-style: normal;
+  
+}
+.pet{
+  margin-left: 60px;
+}
+.pat{
+  height: 400px;
+  border-radius: 20px;
+  margin-left: 80px;
+}
+#lost{
+  margin-left: 40px;
+  margin-top: 5%;
 }

@@ -1,8 +1,8 @@
-# _{ANIMAL SHELTER}_
+# _ANIMAL SHELTER_
 
-#### _{This website is design for adoption and animal care. Specially created to give avenue for individual to adopt pets.}_
+#### _This website is design for adoption and animal care. Specially created to give avenue for individual to adopt pets._
 
-#### By _**{OBIORA PAUL}**_
+#### By _**OBIORA PAUL**_
 
 ## Technologies Used
 

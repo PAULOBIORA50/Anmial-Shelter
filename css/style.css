@@ -232,7 +232,7 @@ td {
   width: 100%;
   margin-top: 10%;
   border-radius: 25px;
-  background-image: url(../img/When\ is\ an\ Aussiedoodle\ Full\ Grown_\ \(2021\)\ \(1\).png);
+  background-image: url(../img/When\ is\ an\ Aussiedoodle\ Full\ Grown_\ \(2021\).png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -245,4 +245,36 @@ td {
   background-color: black;
   width: 100%;
   margin-top: -3%;
+}
+#body{
+  background-color: rgba(79, 105, 8, 0.63);
+}
+#supt{
+  display: inline-flex;
+  margin-left: 50px;
+  margin-top: 3%;
+}
+.supp{
+  height: 70%;
+  width: 90%;
+  margin-left: 3%;
+  border-radius: 20px;
+}
+.sup1{
+  font-weight: bolder;
+  margin-left: 60px;
+  font-size: x-large;
+}
+#supr{
+ 
+  display: inline-flex;
+  margin-left: 50px;
+  margin-top: -10%;
+}
+#supr1{
+  margin-top: -15%;
+}
+.inn{
+ margin-left: 40%;
+ font-size: x-large;
 }

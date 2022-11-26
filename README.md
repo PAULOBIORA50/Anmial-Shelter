@@ -1,4 +1,4 @@
-# _ANIMAL SHELTER_
+# _Escambia County_
 
 #### _This website is design for adoption and animal care. Specially created to give avenue for individual to adopt pets._
 
@@ -9,11 +9,11 @@
 * HTML
 * CSS
 * BOOTSTRAP
-* 
+* Pinterest
 
 ## Description
 
-_{This website deals mainly on animal care. it is develop to enhance free and easy adoption of pets. it comes with different pages that enables users stroll up and down. the site is build with different animal features limited to available one. it is an online website.}_
+_This website deals mainly on animal care. it is develop to enhance free and easy adoption of pets. it comes with different pages that enables users stroll up and down. the site is build with different animal features limited to available one. it is an online website._
 
 ## Setup/Installation Requirements
 
@@ -27,8 +27,11 @@ _{This website deals mainly on animal care. it is develop to enhance free and ea
 
 ## License
 
-_{}_
+_all right reserved_
+__
 
 ## Contact Information
 
-_{Add your contact information here.}_
+_fb:Nonso Paul
+Git Hb: Obiora Paul
+Email: pauldamian77@gmail.com_

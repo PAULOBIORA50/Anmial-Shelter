@@ -1,6 +1,6 @@
-# _Escambia County_
+# _Armstrong County_
 
-#### _This website is design for adoption and animal care. Specially created to give avenue for individual to adopt pets._
+#### _This application is design for adoption of pets and registrating of lost pet. Specially created to give avenue for individual to adopt pets._
 
 #### By _**OBIORA PAUL**_
 
@@ -9,7 +9,8 @@
 * HTML
 * CSS
 * BOOTSTRAP
-* Pinterest
+* PINTEREST
+* GIT
 
 ## Description
 
@@ -18,7 +19,6 @@ _This website deals mainly on animal care. it is develop to enhance free and eas
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop _
-* _git clone _
 * _Naviate to the top level of the directory_
 * _Open index.html on  your browser_
 * _View the page_
@@ -27,11 +27,14 @@ _This website deals mainly on animal care. it is develop to enhance free and eas
 
 ## License
 
-_all right reserved_
-__
+_MIT_
 
 ## Contact Information
 
-_fb:Nonso Paul
-Git Hb: Obiora Paul
-Email: pauldamian77@gmail.com_
+_fb:Nonso Paul_
+
+_Git Hb: Obiora Paul_
+
+_Email: pauldamian77@gmail.com_
+
+_Phone number: 08144522278_

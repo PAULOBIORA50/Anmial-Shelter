@@ -245,7 +245,7 @@ td {
   z-index: 3;
   background-color: black;
   width: 100%;
-  margin-top: -3%;
+  
 }
 
 #supt{
@@ -276,4 +276,8 @@ td {
 .inn{
  margin-left: 40%;
  font-size: x-large;
+}
+.d-block w-1000{
+  height: 60%;
+  width: 90px;
 }
